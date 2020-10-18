@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dgtek-geoscape/precache-manifest.1d0483ebcfd1fbc7d11a8574fc6d8456.js"
+  "/dgtek-geoscape/precache-manifest.6d94a962ede778f00793997076a137b4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "geoscape-test"});
