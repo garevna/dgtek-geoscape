@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dgtek-geoscape/apple-touch-icon.png"
   },
   {
-    "revision": "44c0e1442fc91501c66f",
-    "url": "/dgtek-geoscape/css/app.3a2f3086.css"
+    "revision": "b94e0ccfaa1b96e6d6d2",
+    "url": "/dgtek-geoscape/css/app.ba4f09b9.css"
   },
   {
     "revision": "b004814bde5ed4682e69",
@@ -80,7 +80,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dgtek-geoscape/img/logo.484e8bd1.png"
   },
   {
-    "revision": "256c044b83da11508af6fd6c038885d9",
+    "revision": "8ada9589936a6eaeb178e2a3a5c2825f",
     "url": "/dgtek-geoscape/index.html"
   },
   {
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dgtek-geoscape/js/about.4f5bae19.js"
   },
   {
-    "revision": "44c0e1442fc91501c66f",
-    "url": "/dgtek-geoscape/js/app.1c1b3acb.js"
+    "revision": "b94e0ccfaa1b96e6d6d2",
+    "url": "/dgtek-geoscape/js/app.5fc13b0c.js"
   },
   {
     "revision": "b004814bde5ed4682e69",
