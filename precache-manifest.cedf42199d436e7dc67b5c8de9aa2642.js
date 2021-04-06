@@ -12,12 +12,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dgtek-geoscape/apple-touch-icon.png"
   },
   {
-    "revision": "8dd1b5166410e7d81896",
-    "url": "/dgtek-geoscape/css/app.7e8a899b.css"
+    "revision": "ad44a1d7c47fd30be766",
+    "url": "/dgtek-geoscape/css/app.1b651c48.css"
   },
   {
-    "revision": "b004814bde5ed4682e69",
-    "url": "/dgtek-geoscape/css/chunk-vendors.aac23b80.css"
+    "revision": "c14e87f18c6f437c1797",
+    "url": "/dgtek-geoscape/css/chunk-03d28ece.f464cb2d.css"
+  },
+  {
+    "revision": "7e1b121eaabe5e8fa31c",
+    "url": "/dgtek-geoscape/css/chunk-2ba3e87e.42a4ddf2.css"
+  },
+  {
+    "revision": "648060b25378c16eff63",
+    "url": "/dgtek-geoscape/css/chunk-5b4cfb2e.9b9081fd.css"
+  },
+  {
+    "revision": "75e15407e7d9bc0deed6",
+    "url": "/dgtek-geoscape/css/chunk-cfa96a26.527573be.css"
+  },
+  {
+    "revision": "1591f080d7c34b484ba5",
+    "url": "/dgtek-geoscape/css/chunk-d49dbfe8.527573be.css"
+  },
+  {
+    "revision": "99e013a72f9cb665da3c",
+    "url": "/dgtek-geoscape/css/chunk-vendors.8ee9adec.css"
   },
   {
     "revision": "6de038a7ee6eb1278cb13ae663c52c7f",
@@ -76,24 +96,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dgtek-geoscape/fonts/Gilroy-Regular.ae5e7255.ttf"
   },
   {
-    "revision": "484e8bd1865956810488fe9ce47d2d86",
-    "url": "/dgtek-geoscape/img/logo.484e8bd1.png"
+    "revision": "7e6edc83b2a977ee8cb9966f81d90823",
+    "url": "/dgtek-geoscape/img/logo.7e6edc83.svg"
   },
   {
-    "revision": "29f08306e87366a618d46a562f3e0850",
+    "revision": "8aec4f50530f05ebf6863aea69e4cd44",
     "url": "/dgtek-geoscape/index.html"
   },
   {
-    "revision": "d8370d860c7277bb20a6",
-    "url": "/dgtek-geoscape/js/about.4f5bae19.js"
+    "revision": "ad44a1d7c47fd30be766",
+    "url": "/dgtek-geoscape/js/app.af60c5c0.js"
   },
   {
-    "revision": "8dd1b5166410e7d81896",
-    "url": "/dgtek-geoscape/js/app.ceb0aec8.js"
+    "revision": "c14e87f18c6f437c1797",
+    "url": "/dgtek-geoscape/js/chunk-03d28ece.468cac15.js"
   },
   {
-    "revision": "b004814bde5ed4682e69",
-    "url": "/dgtek-geoscape/js/chunk-vendors.24f48858.js"
+    "revision": "7e1b121eaabe5e8fa31c",
+    "url": "/dgtek-geoscape/js/chunk-2ba3e87e.25b3d39d.js"
+  },
+  {
+    "revision": "1de5a8379f7656a46a3e",
+    "url": "/dgtek-geoscape/js/chunk-2d0c8be8.bd12f98e.js"
+  },
+  {
+    "revision": "871622be1f7943e239b5",
+    "url": "/dgtek-geoscape/js/chunk-2d22c497.126f22d5.js"
+  },
+  {
+    "revision": "648060b25378c16eff63",
+    "url": "/dgtek-geoscape/js/chunk-5b4cfb2e.19f041a5.js"
+  },
+  {
+    "revision": "75e15407e7d9bc0deed6",
+    "url": "/dgtek-geoscape/js/chunk-cfa96a26.d520cd50.js"
+  },
+  {
+    "revision": "1591f080d7c34b484ba5",
+    "url": "/dgtek-geoscape/js/chunk-d49dbfe8.05a6d4f5.js"
+  },
+  {
+    "revision": "99e013a72f9cb665da3c",
+    "url": "/dgtek-geoscape/js/chunk-vendors.926fbb69.js"
   },
   {
     "revision": "b069197f28c779542b027568805b8b36",
